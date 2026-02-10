@@ -1,0 +1,13 @@
+edge,src,dst,strength
+proc_temp->tool_wear,proc_temp,tool_wear,491.97033980882344
+air_temp->tool_wear,air_temp,tool_wear,400.46263715277775
+torque->tool_wear,torque,tool_wear,52.68344268678161
+rpm->tool_wear,rpm,tool_wear,45.00488759146345
+Type_L->tool_wear,Type_L,tool_wear,4.94463463543788
+air_temp->proc_temp,air_temp,proc_temp,1.7645987787999324
+Type_M->tool_wear,Type_M,tool_wear,1.5295114375000147
+torque->failure,torque,failure,0.019104279411764707
+tool_wear->failure,tool_wear,failure,0.011566897260273976
+rpm->failure,rpm,failure,0.0018743225190839701
+Type_L->failure,Type_L,failure,0.00014573883928571454
+Type_M->failure,Type_M,failure,3.946098163841849e-05
